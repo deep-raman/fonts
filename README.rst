@@ -26,7 +26,7 @@ For fedora (tested on 28) or redhat based Linux distribution, there should also 
 On other environments, you can copy and paste these commands to your terminal. Comments are fine too.
 ::
     # clone
-    git clone https://github.com/powerline/fonts.git --depth=1
+    git clone https://github.com/deep-raman/fonts.git --depth=1
     # install
     cd fonts
     ./install.sh
